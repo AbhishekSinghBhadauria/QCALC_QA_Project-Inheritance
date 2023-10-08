@@ -1,0 +1,1 @@
+# QCALC_QA_Project-Inheritance
